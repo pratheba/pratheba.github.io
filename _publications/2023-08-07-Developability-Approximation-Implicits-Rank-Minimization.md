@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-08-07-Developability-Approximation-Implicits-Rank-Minimization
 excerpt: 'Reconstructing an approximate developable surface for a neural implicit surface.'
 date: 2023-08-07
-venue: 'Under submission'
+venue: 'Accepted - 3DV (2024)'
 paperurl: 'https://arxiv.org/abs/2308.03900'
 citation: 'Pratheba Selvaraju. (2023). &quot; Developability Approximation for Neural Implicits through Rank Minimization.&quot; <i>(under review)</i>. 1(2).'
 ---
