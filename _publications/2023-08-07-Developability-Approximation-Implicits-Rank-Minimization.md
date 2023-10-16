@@ -1,13 +1,10 @@
----
-title: "Neural Implicit Surface Reconstruction with a Developability Prior"
+title: "Developability Approximation for Neural Implicits through Rank Minimization"
 collection: publications
-permalink: /publication/2022-11-21-Neural-Implicit-Developability-prior
-excerpt: 'This paper is about developable surface reconstruction from noisy input point cloud.'
-date: 2022-11-21
-venue: 'Conference submission(under review)'
-paperurl: ''
-citation: 'Pratheba Selvaraju, Evangelos Kalogerakis. (2022). &quot; Neural Implicit Surface Reconstruction with a Developability Prior.&quot; <i>(under review)</i>. 1(2).'
+permalink: /publication/2023-08-07-Developability-Approximation-Implicits-Rank-Minimization
+excerpt: 'Reconstructing an approximate developable surface for a neural implicit surface.'
+date: 2023-08-07
+venue: 'Accepted - 3DV (2024)'
+paperurl: 'https://arxiv.org/abs/2308.03900'
+citation: 'Pratheba Selvaraju. (2023). &quot; Developability Approximation for Neural Implicits through Rank Minimization.&quot; <i>(under review)</i>. 1(2).'
 ---
-
-[Download paper here](coming soon)
-
+[Download paper here](arxiv)
