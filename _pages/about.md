@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD student at University of Massachusetts, Amherst advised by Prof.Evangelos Kalogeraki. My interest are in 3D graphics and vision, generative modelling and geometry processing. I am open to explore other areas of cross domain research with 3D geometry.
+I am a sixtg year PhD student at University of Massachusetts, Amherst advised by Prof.Erik-Learned Miller and co-advised by Prof.Evangelos Kalogerakis. My interest are in 3D graphics and vision, generative modelling and geometry processing. I am interested in exploring problems where theory could be applied to practical 3D geometry and vision problems.
 
-Prior to joining PhD, I worked as a software engineer in Microsoft and couple of start-ups in silicon valley. I am originally from India, moved to US in 2011 to do my Masters in Computer science at Columbia University, Newyork. Outside of PhD work, I like to pain, do rock climbing, hiking and running with my 6year old Labrador, Happy. 
+Prior to joining PhD, I worked as a software engineer in Microsoft and start-ups in silicon valley. I did my Masters in Computer science at Columbia University, Newyork. Outside of PhD work, I like to paint, rock climb, hike and run with my dog, Happy. 
