@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume]({{ site.baseurl }}{{post.url}}/files/PrathebaSelvaraju_Resume_2024.pdf)
+[Resume]({{ site.baseurl }}{{post.url}}/files/PrathebaSelvaraju_Resume_2024_update1.pdf)
 
 <!-- Talks
 ======
