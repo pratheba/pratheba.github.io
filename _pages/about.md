@@ -3,7 +3,7 @@ permalink: /
 title: <br>
 layout: single
 header:
-  overlay_image: header_1.jpg
+  overlay_image: iceland_header_1.jpg
   overlay_filter: 0.3
 author_profile: true
 redirect_from:
