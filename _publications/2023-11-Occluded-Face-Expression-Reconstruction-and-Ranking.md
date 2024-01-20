@@ -2,9 +2,9 @@
 title: "OFER:Occluded Face Expression Reconstruction and Ranking"
 collection: publications
 permalink: /publication/2023-11-17-Occluded-Face-Expression-Reconstruction-and-Ranking
-excerpt: 'Occluded Face Expression Reconstruction and Ranking.'
+excerpt: 'Reconstructing a 3D face from a single-view image is inherently challenging, and this difficulty is exacerbated when the image is occluded. Occlusions present numerous challenges, as partial visibility impacts the photometric error, and there can be multiple reconstructions that are consistent with the input. While existing state-of-the-art methods excel at recovering a single shape, they struggle to reconstruct faces under occlusions and cannot sample multiple hypothesis. In this work we propose a new method for 3D face reconstruction of occluded images, based on a conditional denoising diffusion model. Diffusion models standout as a promising solution for generating diverse 3D face reconstructions, thanks to their stochastic sampling nature and ability to model complex distributions. Specifically, we train a diffusion model on the shape and expression parameters of FLAME, conditioned on the image embedding from a face recognition network. This embedding allows to generalize to occluded images from a small supervised and unoccluded training set, enabling diverse reconstructions via the diffusion model. To account for images where the occlusion is not strong, we propose a novel ranking mechanism that selects the best candidate given the set of reconstruction hypothesis'
 date: 2023-11-17
-venue: 'Under conference submission'
+venue: 'Under review (conference)'
 paperurl: 'https://www.researchgate.net/publication/377535707_OFER_Occluded_face_reconstruction_and_ranking'
 ---
 ![Model](https://github.com/pratheba/pratheba.github.io/blob/master/files/OFER.png)
