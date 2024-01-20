@@ -23,5 +23,5 @@ author_profile: true
 <br>
 <br>
 <b>[A 3D digitisation workflow for architecture-specific annotation of built heritage](../publication/architecture_digitisation)</b><br>
-<i>'Marissia Deligiorgi, Maria I Maslioukova, Melinos Averkiou, Andreas C Andreou, <b>Pratheba Selvaraju</b>, Evangelos Kalogerakis, Gustavo Patow, Yiorgos Chrysanthou, George Artopoulos<i><br>
-<i>Journal of Archaeological Science: Reports</i>.<b>JASREP</b>
+<i>Marissia Deligiorgi, Maria I Maslioukova, Melinos Averkiou, Andreas C Andreou, <b>Pratheba Selvaraju</b>, Evangelos Kalogerakis, Gustavo Patow, Yiorgos Chrysanthou, George Artopoulos<i><br>
+<i>Journal of Archaeological Science: Reports</i>. <b>JASREP 2021</b>
