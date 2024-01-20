@@ -6,12 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-[Download here]({{ site.baseurl }}{{post.url}}/files/Pratheba_Selvaraju_resume_2024_update1.pdf)
+<br>
+<b>[Download here](../files/Pratheba_Selvaraju_resume_2024_update1.pdf)</b><br>
+<br>
+<br>
 <embed src="../files/Pratheba_Selvaraju_resume_2024_update1.pdf" type="application/pdf">
 <object data="https://github.com/pratheba/pratheba.github.io/blob/master/files/Pratheba_Selvaraju_resume_2024_update1.pdf" type="application/pdf" width="100%"> 
 </object>
+
+{% include base_path %}
 
 <!-- Talks
 ======
