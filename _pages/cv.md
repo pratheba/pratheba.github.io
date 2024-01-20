@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download here]({{ site.baseurl }}{{post.url}}/files/PrathebaSelvaraju_Resume_2024_update1.pdf)
-<embed src="../files/PrathebaSelvaraju_Resume_2024_update1.pdf" type="application/pdf">
-
+[Download here]({{ site.baseurl }}{{post.url}}/files/Pratheba_Selvaraju_Resume_2024_update1.pdf)
+<embed src="../files/Pratheba_Selvaraju_Resume_2024_update1.pdf" type="application/pdf">
+<object data="../files/Pratheba_Selvaraju_Resume_2024_update1.pdf" type="application/pdf" width="100%"> 
+</object>
 
 <!-- Talks
 ======
