@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br>
-<b>[Download here](https://github.com/pratheba/pratheba.github.io/blob/master/files/PrathebaSelvaraju_Resume_2024_updated2.pdf)</b><br>
+<b>[Download here](../files/PrathebaSelvaraju_Resume_2024_updated2.pdf)</b><br>
 <br>
 <br>
 
