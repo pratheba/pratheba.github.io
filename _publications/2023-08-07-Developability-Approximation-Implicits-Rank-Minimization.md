@@ -1,6 +1,6 @@
 ---
 title: "Developability Approximation for Neural Implicits through Rank Minimization"
-![Model](https://github.com/pratheba/pratheba.github.io/blob/master/files/DevApproxRankMin.png)
+teaser: ![Model](https://github.com/pratheba/pratheba.github.io/blob/master/files/DevApproxRankMin.png)
 collection: publications
 permalink: /publication/2023-08-07-Developability-Approximation-Implicits-Rank-Minimization
 excerpt: 'Reconstructing an approximate developable surface for a neural implicit surface.'
