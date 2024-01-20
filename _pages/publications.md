@@ -18,8 +18,10 @@ author_profile: true
 <br>
 <br>
 <b>[Buildingnet: Learning to label 3d buildings](../publication/2021-03-01-BuildingNet)</b> <br> 
-<b>Pratheba Selvaraju</b>, Mohamed Nabail, Marios Loizou, Maria Maslioukova, Melinos Averkiou, Andreas Andreou, Siddhartha Chaudhuri, Evangelos Kalogerakis (2021). &quot;Buildingnet: Learning to label 3d buildings.&quot; <i>International Conference on Computer Vision</i>. <b>ICCV 2021</b>.
+<i><b>Pratheba Selvaraju</b>, Mohamed Nabail, Marios Loizou, Maria Maslioukova, Melinos Averkiou, Andreas Andreou, Siddhartha Chaudhuri, Evangelos Kalogerakis</i><br>
+<i>International Conference on Computer Vision</i>. <b>ICCV 2021</b>.
 <br>
 <br>
 <b>[A 3D digitisation workflow for architecture-specific annotation of built heritage](../publication/architecture_digitisation)</b>
-<i></i>
+<i>'Marissia Deligiorgi, Maria I Maslioukova, Melinos Averkiou, Andreas C Andreou, <b>Pratheba Selvaraju</b>, Evangelos Kalogerakis, Gustavo Patow, Yiorgos Chrysanthou, George Artopoulos<i><br>
+<i>Journal of Archaeological Science: Reports</i>.<b>JASREP</b>
