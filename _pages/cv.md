@@ -10,7 +10,7 @@ redirect_from:
 <b>[Download here](../files/Pratheba_Selvaraju_resume_2024_update1.pdf)</b><br>
 <br>
 <br>
-<embed src="../files/Pratheba_Selvaraju_resume_2024_update1.pdf" type="application/pdf">
+
 <object data="https://github.com/pratheba/pratheba.github.io/blob/master/files/Pratheba_Selvaraju_resume_2024_update1.pdf" type="application/pdf" width="100%"> 
 </object>
 
