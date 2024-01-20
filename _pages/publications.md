@@ -11,6 +11,7 @@ author_profile: true
 <i><b>Pratheba Selvaraju</b>, Victoria Fernandez Abrevaya, Timo Bolkart, Faezeh Amjadi, Ilya Zharkov</i>
 <i>Under review(Conference)</i>
 <br>
+<br>
 <b>[Developability Approximation for Neural Implicits through Rank Minimization](../publication/2023-08-07-Developability-Approximation-Implicits-Rank-Minimization)</b><br> 
 <i><b>Pratheba Selvaraju</b></i><br>
 <i>International Conference on 3D Vision</i>. <b>3DV 2024</b>.
@@ -20,3 +21,5 @@ author_profile: true
 <b>Pratheba Selvaraju</b>, Mohamed Nabail, Marios Loizou, Maria Maslioukova, Melinos Averkiou, Andreas Andreou, Siddhartha Chaudhuri, Evangelos Kalogerakis (2021). &quot;Buildingnet: Learning to label 3d buildings.&quot; <i>International Conference on Computer Vision</i>. <b>ICCV 2021</b>.
 <br>
 <br>
+<b>[A 3D digitisation workflow for architecture-specific annotation of built heritage](../publication/architecture_digitisation)</b>
+<i></i>
