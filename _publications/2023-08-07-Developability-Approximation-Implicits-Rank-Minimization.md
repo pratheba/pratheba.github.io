@@ -1,7 +1,7 @@
 ---
 title: "Developability Approximation for Neural Implicits through Rank Minimization"
 collection: publications
-permalink: /publication/2023-08-07-Developability-Approximation-Implicits-Rank-Minimization
+permalink: /publication/Developability-Approximation-Implicits-Rank-Minimization
 excerpt: 'Reconstructing an approximate developable surface for a neural implicit surface.'
 date: 2023-10-15
 venue: 'Accepted - Internation conference on 3D Vision (3DV-2024)'
