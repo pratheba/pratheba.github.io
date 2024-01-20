@@ -6,7 +6,10 @@ header:
   overlay_filter: 0.8
 author_profile: true
 ---
-
+<br>
+<b>[OFER:Occluded Face Expression Reconstruction and Ranking](../publication/2023-11-OFER)</b>
+<i><b>Pratheba Selvaraju</b>, Victoria Fernandez Abrevaya, Timo Bolkart, Faezeh Amjadi, Ilya Zharkov</i>
+<i>Under review(Conference)</i>
 <br>
 <b>[Developability Approximation for Neural Implicits through Rank Minimization](../publication/2023-08-07-Developability-Approximation-Implicits-Rank-Minimization)</b><br> 
 <i><b>Pratheba Selvaraju</b></i><br>
