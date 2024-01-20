@@ -14,10 +14,11 @@ redirect_from:
 <object data="https://github.com/pratheba/pratheba.github.io/blob/master/files/Pratheba_Selvaraju_resume_2024_update1.pdf" type="application/pdf" width="100%"> 
 </object>
 
-{% include base_path %}
+
 
 <!-- Talks
 ======
+   {% include base_path %}
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
