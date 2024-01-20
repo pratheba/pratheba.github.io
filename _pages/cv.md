@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 [Download here]({{ site.baseurl }}{{post.url}}/files/PrathebaSelvaraju_Resume_2024_update1.pdf)
 <embed src="../files/PrathebaSelvaraju_Resume_2024_update1.pdf" type="application/pdf">
+
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
