@@ -18,6 +18,6 @@ My interest is in 3D Computer vision and graphics, especially in generative mode
 
 Before starting PhD, I was a software engineer in Microsoft and start-ups in silicon valley. I did my Masters in Computer science at Columbia University, Newyork. Outside of PhD, I like to paint, rock climb, hike and run with my dog, Happy. 
 
-<img src = "/images/happy.jpg" width="1400" height="960" >
+<img src = "/images/happy1.jpg" >
 <small><center><i>Happy says "hi"</i></center></small>
 <br><br>
