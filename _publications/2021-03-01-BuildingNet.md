@@ -9,5 +9,5 @@ paperurl: '[https://buildingnet.org/]'
 citation: 'Pratheba Selvaraju, Mohamed Nabail, Marios Loizou, Maria Maslioukova, Melinos Averkiou, Andreas Andreou, Siddhartha Chaudhuri, Evangelos Kalogerakis (2021). &quot;Buildingnet: Learning to label 3d buildings.&quot; <i>ICCV</i>.'
 ---
 We introduce BuildingNet: (a) a large-scale dataset of 3D building models whose exteriors are consistently labeled, and (b) a graph neural network that labels building meshes by analyzing spatial and structural relations of their geometric primitives.
-
+![Model](https://github.com/pratheba/pratheba.github.io/blob/master/files/BuildingNet.png)
 [Download paper here](https://drive.google.com/file/d/1aD5AIkx58k7EyK8Utg8vKv2Y_UMZ--pv/view)
