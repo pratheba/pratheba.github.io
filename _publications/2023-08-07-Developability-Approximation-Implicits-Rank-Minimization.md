@@ -1,5 +1,3 @@
-![Model](https://github.com/pratheba/pratheba.github.io/blob/master/files/DevApproxRankMin.png)
-
 ---
 title: "Developability Approximation for Neural Implicits through Rank Minimization"
 collection: publications
@@ -10,4 +8,5 @@ venue: 'Accepted - Internation conference on 3D Vision (3DV-2024)'
 paperurl: 'https://arxiv.org/abs/2308.03900'
 citation: 'Pratheba Selvaraju. (2023). &quot; Developability Approximation for Neural Implicits through Rank Minimization.&quot; <i></i>. 1(2).'
 ---
+![Model](https://github.com/pratheba/pratheba.github.io/blob/master/files/DevApproxRankMin.png)
 [Download paper here](arxiv)
