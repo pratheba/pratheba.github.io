@@ -10,7 +10,7 @@ redirect_from:
 <b>[Download here](https://github.com/pratheba/pratheba.github.io/blob/master/files/PrathebaSelvaraju_Resume_2024_updated2.pdf)</b><br>
 <br>
 <br>
-<embed src="https://github.com/pratheba/pratheba.github.io/blob/master/files/Pratheba_Selvaraju_Resume_2024_updated2.pdf" type="application/pdf" width="100%">
+
 
 
 <!-- Talks
