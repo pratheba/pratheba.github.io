@@ -1,7 +1,7 @@
 ---
 title: "A 3D digitisation workflow for architecture-specific annotation of built heritage"
 collection: publications
-permalink: /publication/2021-06-01-architecture_digitisation
+permalink: /publication/architecture_digitisation
 excerpt: 'This paper is about Identification of a building’s architectural components and to the study of the stylistic influences'
 date: 2021-06-01
 venue: 'Journal of Archaeological Science: Reports'
