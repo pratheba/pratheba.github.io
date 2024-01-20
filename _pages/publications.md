@@ -2,7 +2,7 @@
 title: "Publications"
 permalink: /publications/
 header:
-  overlay_image: DevApproxRankMin.jpg
+  overlay_image: DevApproxRankMin.png
   overlay_filter: 0.8
 author_profile: true
 ---
