@@ -14,6 +14,6 @@ author_profile: true
 <br>
 <br>
 <b>[Buildingnet: Learning to label 3d buildings](../publication/2021-03-01-BuildingNet)</b> <br> 
-Pratheba Selvaraju, Mohamed Nabail, Marios Loizou, Maria Maslioukova, Melinos Averkiou, Andreas Andreou, Siddhartha Chaudhuri, Evangelos Kalogerakis (2021). &quot;Buildingnet: Learning to label 3d buildings.&quot; <i>International Conference on Computer Vision</i>. <b>ICCV 2021</b>.
+<b>Pratheba Selvaraju</b>, Mohamed Nabail, Marios Loizou, Maria Maslioukova, Melinos Averkiou, Andreas Andreou, Siddhartha Chaudhuri, Evangelos Kalogerakis (2021). &quot;Buildingnet: Learning to label 3d buildings.&quot; <i>International Conference on Computer Vision</i>. <b>ICCV 2021</b>.
 <br>
 <br>
