@@ -16,7 +16,7 @@ I am a PhD candidate in [Manning College of Information & Computer Sciences](htt
 
 My interest is in 3D Computer vision and graphics, especially in generative modelling, rendering and geometry processing. I am interested in exploring problems where theory could be applied to practical 3D geometry and vision problems.
 
-Before starting PhD, I was a software engineer in Microsoft and start-ups in silicon valley. I did my Masters in Computer science at Columbia University, Newyork. Outside of PhD, I like to paint, rock climb, hike and run with my dog, Happy. 
+Before starting PhD, I was a software engineer in Microsoft and start-ups in silicon valley. I did my Masters in Computer science at Columbia University, Newyork. Outside of PhD, I like to travel, paint, rock climb, hike and run with my dog, Happy. 
 
 <img src = "/images/happy1.jpg" >
 <small><center><i>Happy says "hi"</i></center></small>
