@@ -1,4 +1,5 @@
 ![Model](https://github.com/pratheba/pratheba.github.io/blob/master/files/DevApproxRankMin.png)
+
 ---
 title: "Developability Approximation for Neural Implicits through Rank Minimization"
 collection: publications
