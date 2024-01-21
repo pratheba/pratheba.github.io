@@ -26,35 +26,41 @@ I like to paint from time to time. Started with charcoal and transitioned to oil
 <html>
 <head>
 <style>
-.center {
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 1024px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 50%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
   text-align: center;
-  border: 3px solid green;
 }
 </style>
 </head>
-</html>
 <body>
 
-
-<h2>Center Text</h2>
-
-<div class="center">
-  <p>This text is centered.</p>
-</div>
-
-</body>
-<body>
-  <div class="gallery">
+<div class="gallery">
   <a target="_blank" href="../images/painting_dance.jpg">
-    <img src="../images/painting_dance.jpg" alt="Bharatham" width="600" >
+    <img src="../images/painting_dance.jpg" alt="Bharatham" >
   </a>
-  <div class="desc" text-align="center">Bharatham</div>
-</div><br>
+  <div class="desc">Bharatham</div>
+</div>
 
 <div class="gallery">
   <a target="_blank" href="../images/girl.jpg">
-    <img src="../images/girl.jpg" alt="Forest" width="600" >
+    <img src="../images/girl.jpg" alt="dream" >
   </a>
-  <div class="desc" text-align="center">Dream</div>
+  <div class="desc">Dream</div>
 </div>
 </body>
