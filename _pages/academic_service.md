@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.8
 author_profile: true
 ---
-<br>
-<h3>Reviewer</h3>
-Reviewer: TPAMI <br>
-Emergency reviewer: CVPR <br>
+
+<ins><b>Peer reviewing</b></ins><br>
+Reviewer: TPAMI, CVPR <br>
+
