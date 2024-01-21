@@ -13,4 +13,4 @@ redirect_from:
 ## **<center>PERSONAL INTERETS</center>**
 
 I like to paint from time to time. Started with charcoal and transitioned to oil pastels.
-<img src="../images/painting_dance.jpeg" width=512, height=600 />
+<img src="../images/painting_dance.jpg" width=537, height=759 />
