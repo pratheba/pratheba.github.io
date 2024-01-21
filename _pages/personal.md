@@ -1,14 +1,12 @@
 ---
 title: "Personal"
 permalink: /personal/
-layout: single
 header:
   overlay_image: icelandheader1.jpg
   overlay_filter: 0.3
 author_profile: true
 ---
 ## **<center>PERSONAL INTERESTS</center>**
-
 <ins><b>Painting</b></ins>
 
 I like to paint from time to time. Started with charcoal and transitioned to oil pastels.
