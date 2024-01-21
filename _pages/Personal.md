@@ -1,5 +1,6 @@
 ---
 title: "Personal"
+layout: single
 permalink: /personal/
 header:
   overlay_image: icelandheader1.jpg
