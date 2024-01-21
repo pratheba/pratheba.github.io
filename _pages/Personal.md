@@ -10,8 +10,8 @@ author_profile: true
 <ins><b>Painting</b></ins>
 
 I like to paint from time to time. Started with charcoal and transitioned to oil pastels.
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+| | |<br>
+|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="bharathanatiyam" src="../images/painting_dance.jpg">  Bharathanatiyam |  <img width="1604" alt="girl" src="../images/girl.jpg"> Dream|
 
 <body>
