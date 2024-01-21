@@ -10,18 +10,6 @@ author_profile: true
 ## **<center>PERSONAL INTERESTS</center>**
 <ins><b>Painting</b></ins>
 
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
-<div class="green">
-    Markdown css styles
-</div>
-
 I like to paint from time to time. Started with charcoal and transitioned to oil pastels.<br>
 <html>
 <head>
@@ -38,7 +26,7 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 50%;
+  width: 100%;
   height: auto;
 }
 
