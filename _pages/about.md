@@ -12,7 +12,7 @@ redirect_from:
 ---
 ## **<center>ABOUT ME</center>**
 
-I am a PhD candidate in [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/) at University of Massachusetts, Amherst. I am advised by [Prof.Erik-Learned Miller](https://people.cs.umass.edu/~elm/index.html) and co-advised by [Prof.Evangelos Kalogerakis](https://people.cs.umass.edu/~kalo/).
+I am a PhD candidate in [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/) at University of Massachusetts, Amherst. I am advised by [Prof.Erik-Learned Miller](https://people.cs.umass.edu/~elm/index.html).
 
 My interest is in 3D Computer vision and graphics, especially in generative modelling, reconstruction and geometry processing. I am interested in exploring problems where theory could be applied to practical 3D geometry and vision problems.
 
