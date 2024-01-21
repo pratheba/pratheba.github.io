@@ -10,3 +10,7 @@ redirect_from:
   - /personal/
   - /personal.html
 ---
+## **<center>PERSONAL INTERETS</center>**
+
+I like to paint from time to time. Started with charcoal and transitioned to oil pastels.
+<img src="../images/painting_dance.jpeg" width=512, height=600 />
