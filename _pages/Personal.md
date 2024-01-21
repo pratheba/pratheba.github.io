@@ -10,8 +10,13 @@ author_profile: true
 <ins><b>Painting</b></ins>
 
 I like to paint from time to time. Started with charcoal and transitioned to oil pastels.
-<div class="container">
-<div class=”gallery”>
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="bharathanatiyam" src="../images/painting_dance.jpg">  Bharathanatiyam |  <img width="1604" alt="girl" src="../images/girl.jpg"> Dream|
+
+<body>
+ <div class="container">
+  <div class=”gallery”>
   <figure class=”gallery__item gallery__item--1">
     <img src="../images/painting_dance.jpg" class="gallery__img" alt="Bharatham">
   </figure>
@@ -20,3 +25,4 @@ I like to paint from time to time. Started with charcoal and transitioned to oil
   </figure>
 </div>
 </div>
+</body>
