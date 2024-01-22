@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Academic service"
-  url: /academic_service/
+  - title: "Academicservice"
+    url: /academic_service/
 
   - title: "Personal"
     url: /personal/
