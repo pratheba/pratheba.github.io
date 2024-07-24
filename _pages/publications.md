@@ -7,12 +7,12 @@ header:
 author_profile: true
 ---
 <br>
-<b>[FORA:](../publication/FORA)</b><br>
-<i><b>Pratheba Selvaraju</b>, </i><br>
+<b>[FORA: Fast-Forward Caching in Diffusion Transformer Acceleration](../publication/FORA)</b><br>
+<i><b>Pratheba Selvaraju</b>,Tianyu Ding, Tianyi Chen, Ilya Zharkov, Luming Liang </i><br>
 <i>arXiv</i>
 <br>
 <br>
-<b>[OFER:Occluded Face Expression Reconstruction and Ranking](../publication/OFER)</b><br>
+<b>[OFER: Occluded Face Expression Reconstruction and Ranking](../publication/OFER)</b><br>
 <i><b>Pratheba Selvaraju</b>, Victoria Fernandez Abrevaya, Timo Bolkart, Faezeh Amjadi, Ilya Zharkov</i><br>
 <i>Under review(Conference)</i>
 <br>
