@@ -7,6 +7,11 @@ header:
 author_profile: true
 ---
 <br>
+<b>[FORA:](../publication/FORA)</b><br>
+<i><b>Pratheba Selvaraju</b>, </i><br>
+<i>arXiv</i>
+<br>
+<br>
 <b>[OFER:Occluded Face Expression Reconstruction and Ranking](../publication/OFER)</b><br>
 <i><b>Pratheba Selvaraju</b>, Victoria Fernandez Abrevaya, Timo Bolkart, Faezeh Amjadi, Ilya Zharkov</i><br>
 <i>Under review(Conference)</i>
