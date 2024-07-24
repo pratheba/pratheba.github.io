@@ -5,7 +5,7 @@ permalink: /publication/FORA
 excerpt: 'Fast-Forward Caching in Diffusion Transformer Acceleration.'
 date: 2024-07-01
 venue: 'arXiv'
-citation: 'Pratheba Selvaraju. &quot; FORA: Fast-Forward Caching in Diffusion Transformer Acceleration.&quot; <i>arXiv</i>.'
+citation: 'Pratheba Selvaraju,Tianyu Ding, Tianyi Chen, Ilya Zharkov, Luming Liang' &quot; FORA: Fast-Forward Caching in Diffusion Transformer Acceleration.&quot; <i>arXiv</i>.'
 ---
 <img src = '../images/FORA_teaser.png'>
 <div style="text-align: justify">
