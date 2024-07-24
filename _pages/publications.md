@@ -9,12 +9,12 @@ author_profile: true
 <br>
 <b>[FORA: Fast-Forward Caching in Diffusion Transformer Acceleration](../publication/FORA)</b><br>
 <i><b>Pratheba Selvaraju</b>,Tianyu Ding, Tianyi Chen, Ilya Zharkov, Luming Liang </i><br>
-<i>arXiv</i>
+<i>arXiv(2024)</i>
 <br>
 <br>
 <b>[OFER: Occluded Face Expression Reconstruction and Ranking](../publication/OFER)</b><br>
 <i><b>Pratheba Selvaraju</b>, Victoria Fernandez Abrevaya, Timo Bolkart, Faezeh Amjadi, Ilya Zharkov</i><br>
-<i>Under review(Conference)</i>
+<i>Under review(Conference)(2024)</i>
 <br>
 <br>
 <b>[Developability Approximation for Neural Implicits through Rank Minimization](../publication/Developability-Approximation-Implicits-Rank-Minimization)</b><br> 
