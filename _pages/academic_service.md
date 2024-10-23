@@ -8,5 +8,5 @@ author_profile: true
 ---
 
 <ins><b>Peer reviewing</b></ins><br>
-Reviewer: TPAMI, CVPR, ECCV, SiggraphAsia <br>
+Reviewer: TPAMI, CVPR, ECCV, SiggraphAsia, 3DV <br>
 
