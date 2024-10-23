@@ -16,7 +16,7 @@ I am a PhD candidate in [Manning College of Information & Computer Sciences](htt
 
 My interest is in 3D Computer vision and graphics, especially in generative modelling, reconstruction and geometry processing. I am interested in exploring problems where theory could be applied to practical 3D geometry and vision problems.
 
-<code style="color : green"> Update: Will be joining Roblox as Research Intern, summer 2024.</code>
+<code style="color : green"> Update: Will be graduating in December, 2014. Looking for full time research position starting spring/summer 2025.</code>
 
 Before starting PhD, I was a software engineer in Microsoft and start-ups in silicon valley. I did my Masters in Computer science at Columbia University, Newyork. Outside of PhD, I like to travel, paint, rock climb, hike and run with my dog, Happy. 
 
