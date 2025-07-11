@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 <br>
-<b>[View here](../files/Pratheba_Selvaraju_Resume.pdf)</b><br>
+<b>[View here](../files/Pratheba_Selvaraju_CV.pdf)</b><br>
 <br>
 <br>
 
