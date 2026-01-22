@@ -7,14 +7,19 @@ header:
 author_profile: true
 ---
 <br>
-<b>[FORA: Fast-Forward Caching in Diffusion Transformer Acceleration](../publication/FORA)</b><br>
-<i><b>Pratheba Selvaraju</b>,Tianyu Ding, Tianyi Chen, Ilya Zharkov, Luming Liang </i><br>
-<i>arXiv(2024)</i>
+<b>[NGL-Prompter: Training-Free Sewing Pattern Estimation from Images](../publication/NGL)</b><br>
+<i>Anna Badalyan *+, <b>Pratheba Selvaraju +</b>, Victoria Fernandez Abrevaya, Omid Taheri, Michael Black </i><br>
+<i>Under Review(2026)</i>
 <br>
 <br>
 <b>[OFER: Occluded Face Expression Reconstruction and Ranking](../publication/OFER)</b><br>
 <i><b>Pratheba Selvaraju</b>, Victoria Fernandez Abrevaya, Timo Bolkart, Faezeh Amjadi, Ilya Zharkov</i><br>
 <i>Computer Vision and Pattern Recognition Conference</i>. <b> CVPR 2025</b>
+<br>
+<br>
+<b>[FORA: Fast-Forward Caching in Diffusion Transformer Acceleration](../publication/FORA)</b><br>
+<i><b>Pratheba Selvaraju</b>,Tianyu Ding, Tianyi Chen, Ilya Zharkov, Luming Liang </i><br>
+<i>arXiv(2024)</i>
 <br>
 <br>
 <b>[Developability Approximation for Neural Implicits through Rank Minimization](../publication/Developability-Approximation-Implicits-Rank-Minimization)</b><br> 
