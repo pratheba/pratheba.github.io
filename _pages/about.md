@@ -18,7 +18,7 @@ I graduated with PhD degree in Computer Science (Dec 2024) from [Manning College
 
 My interest is in 3D Computer vision and graphics, especially in generative modelling, reconstruction and geometry processing. I am interested in exploring problems where theory could be applied to practical 3D geometry and vision problems.
 
-<code style="color : green"> Update: I am currently a Research Assistant in Max Planck Institute of Intelligent Systems - Perceived systems directed by [Prof. Michael J. Black](https://is.mpg.de/ps/person/black). Looking for research scientist position in Generative AI and 3D Computer Graphics.</code>
+I worked as Research Scientist in Max Planck Institute of Intelligent Systems - Perceived systems directed by [Prof. Michael J. Black](https://is.mpg.de/ps/person/black). 
 
 Before starting PhD, I was a software engineer in Microsoft and start-ups in silicon valley. I did my Masters in Computer science at Columbia University, Newyork. Outside of PhD, I like to travel, paint, rock climb, hike and run with my dog, Happy. 
 
